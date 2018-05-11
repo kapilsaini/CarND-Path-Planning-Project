@@ -1,4 +1,4 @@
-#CarND-Path-Planning-Project
+# CarND-Path-Planning-Project
 ***
 ## Objective
 The objective of the project is to drive a car on a highway (simulator)without colliding with other cars and if necessary, overtaking other cars by changing lanes while maintaining the speed limit, acceleration and jerk.
@@ -18,9 +18,9 @@ I have used **spline** library by including **spline.h** in source folder. Code 
 
 ### Valid trajectories
 
-|-   CRITERIA	|- RESULT   	|
+|   CRITERIA	| RESULT   	|
 |:---	|:---	|
-|   **The car is able to drive at least 4.32 miles without incident.**	|  I ran the simulator for more than 5 miles without incidents: 	|
+|   **The car is able to drive at least 4.32 miles without incident.**	|  I ran the simulator for more than 5 miles without incidents. 	|
 | **The car drives according to the speed limit.**  	|   No speed limit warning message was seen.	|
 | **Max Acceleration and Jerk are not Exceeded.**  	|   Max jerk red message was not seen.	|
 |  **Car does not have collisions.**	|   No collisions.	|
